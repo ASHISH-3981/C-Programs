@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main ()
-{ int a,b;
+{ 
+  int a,b;
 
 printf ("\n enter the two four digit numbers:");
 scanf ("%2d %4d",&a,&b);
